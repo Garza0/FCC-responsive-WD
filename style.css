@@ -69,16 +69,11 @@ blockquote {
     font-size: 3.5rem;
     line-height: 1.2;
   }
-}
-
-@media (max-width: 460px) {
-  #main {
+#main {
     margin: 0;
   }
-}
-
-@media (max-width: 460px) {
-  #img-caption {
+#img-caption {
     font-size: 1.4rem;
   }
 }
+
